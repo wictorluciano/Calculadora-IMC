@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: min(6vw, 30px);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.card {
+    display: flex;
+    flex-direction: column;
+    height: min(80vh, 600px);
+    width: min(70vw, 400px);
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+div.card-input {
+    display: flex;
+    flex-direction: column;
+
+}
+
+div.result {
+    display: flex;
+    flex-direction: column;
+}
