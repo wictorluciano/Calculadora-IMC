@@ -3,7 +3,7 @@
 
 Visite o projeto: <a href="https://wictorluciano.github.io/Calculadora-IMC/" target="_blank">Clicando aqui</a> 
 
-<a href="https://wictorluciano.github.io/Calculadora-IMC/"><img src="./img/readme.png" width="250px"></a>
+<a href="https://wictorluciano.github.io/Calculadora-IMC/"><img src="./assets/img/readme.png" width="250px"></a>
 
 
 Projeto realizado com base no conteúdo disponibilizado pelo 
